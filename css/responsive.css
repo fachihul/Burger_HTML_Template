@@ -1,0 +1,21 @@
+/* tablet */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .hero-area {
+    height: auto;
+    
+}
+.food-price {
+    margin-bottom: 100px;
+}
+.banner-details {
+    align-items: center;
+    margin-top: 25px;
+}
+.banner-details h2 {
+   margin: -15px;
+}
+.banner-image {
+    margin-top: -45px;
+}
+
+}
